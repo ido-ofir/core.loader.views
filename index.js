@@ -1,6 +1,6 @@
 
 module.exports = {
-    name: 'core.plugin.views',
+    name: 'core.loader.views',
     hooks: [{
         channel: 'core.pluginDefinition',
         hook(pluginDefinition, next){
