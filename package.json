@@ -1,6 +1,6 @@
 {
     "name": "core.loader.views",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "load views from plugin definition",
     "main": "index.js",
     "scripts": {
