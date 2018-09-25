@@ -12,7 +12,7 @@ core.plugin(
     require('core.loader.views')
 );
 
-// plugins can now declare components on the plugin definition object:
+// plugins can now declare views on the plugin definition object:
 core.plugin({
     name: 'test',
     tree: {    // define plugin's tree
